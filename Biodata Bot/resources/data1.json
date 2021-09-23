@@ -1,0 +1,43 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+      {
+        "type": "TextBlock",
+        "text": "Your Personal Details Are:",
+        "size": "large",
+        "color":"attention",
+        "weight":"bolder"
+      },
+  
+      {
+        "type": "TextBlock",
+        "text": "Name : Ajay Jangid",
+        "size": "medium",
+        "color":"accent"
+      },
+      {
+        "type": "TextBlock",
+        "text": "Address : Pune",
+        "size": "medium",
+        "color":"accent"
+      },
+      {
+        "type": "TextBlock",
+        "text": "Age : 22",
+        "size": "medium",
+        "color":"accent"
+      },
+      {
+        "type": "TextBlock",
+        "text": "Mobile No : 8888677154",
+        "size": "medium",
+        "color":"accent"
+      }
+  
+
+     
+    ]
+  }
+  

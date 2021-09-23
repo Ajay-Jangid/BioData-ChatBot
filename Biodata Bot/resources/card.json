@@ -1,0 +1,23 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+      {
+        "type": "TextBlock",
+        "text": "Hello Welcome to BioData ChatBot",
+        "size": "large",
+        "color":"accent",
+        "weight":"bolder"
+      
+      },
+  
+      {
+        
+      "type": "Image",
+      "url": "https://adaptivecards.io/content/cats/1.png",
+      "height": "50px"
+      }
+    ]
+  }
+  
